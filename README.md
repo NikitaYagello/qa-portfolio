@@ -39,6 +39,5 @@
 
 ## 📬 Контакты
 
-- Telegram: [@username]
-- Email: [you@example.com]
-- HH: [ссылка на резюме]
+- Email: yagellonikita94@gmail.com
+- HH: https://rostov.hh.ru/resume/4ed9bf37ff10b3d1ac0039ed1f4d7550355651
