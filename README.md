@@ -19,7 +19,7 @@
 - Работа с требованиями (User Story, критерии приёмки)
 - Модели разработки: Agile / Scrum, Waterfall, V-model
 
-**Знаком / изучаю **
+**Знаком / изучаю**
 - API: Postman, Swagger / OpenAPI, REST, HTTP
 - БД: SQL (SELECT, JOIN, GROUP BY), PostgreSQL, DBeaver
 - Браузер: DevTools (Network, Console, Elements, Application)
